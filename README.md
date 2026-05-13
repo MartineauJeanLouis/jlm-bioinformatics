@@ -1,4 +1,3 @@
-````markdown id="t8n4vy"
 # 🧬 jlm-bioinformatics
 
 <div align="center">
@@ -305,6 +304,4 @@ If you find these projects useful:
 * follow future developments
 * share with the genomics community
 
-```
-```
 
