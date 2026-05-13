@@ -1,4 +1,4 @@
-````markdown id="f2k9mx"
+
 # projects/SNP_intensity_data_tools.md
 
 # 🔬 SNP_intensity_data_tools
@@ -48,59 +48,82 @@ Optional PennCNV Integration
 
 ---
 
+# ⚙️ Workflow Overview
+
+<div align="center">
+
+![Pipeline Overview](assets/pipeline_overview.png)
+
+</div>
+
+---
+
+# 📊 What This Infrastructure Delivers
+
+## Reproducibility
+- automated execution
+- version-controlled workflows
+- deterministic outputs
+
+## Scalability
+- multi-core execution
+- HPC compatibility
+- GPU-ready computation
+- large cohort support
+
+## QC Transparency
+- probe-level QC
+- sample-level QC
+- visualization support
+- signal quality assessment
+
+## Analysis-Ready Outputs
+- structured per-sample files
+- CNV-ready signal generation
+- downstream-compatible datasets
+
+---
 
 ## Toolchain
-
 
 * htslib
 * bcftools
 * samtools
 * gtc2vcf
-
 * IAAP
 * PennCNV
 
-
 ---
 
-
 ## Workflow System
-
 
 * Snakemake
 * modular rule architecture
 * configuration-driven execution
-
 * parallelized processing
-
 
 ---
 
 ## Computational Features
 
 * multi-threaded execution
-
 * scalable cohort processing
 * GPU-compatible QC workflows
 * HPC deployment support
 
 ---
 
-
 # 📊 Extracted Features
 
 The pipeline generates:
 
-
 | Feature | Description            |
 | ------- | ---------------------- |
 | GT      | Genotype call          |
-
 | BAF     | B Allele Frequency     |
 | LRR     | Log R Ratio            |
 | X/Y     | Normalized intensities |
 | gcScore | Genotyping confidence  |
-
 
 ---
 
@@ -124,7 +147,6 @@ The workflow computes:
 
 * PFB estimation
 * signal normalization support
-
 ---
 
 # 🧬 CNV Support
@@ -186,6 +208,4 @@ For collaborations or workflow customization:
 
 📧 [martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
 
-```
-```
 
