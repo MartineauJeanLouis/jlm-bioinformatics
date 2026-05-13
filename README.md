@@ -132,76 +132,30 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 
 ---
 
-# ⚙️ Workflow Overview
-
-<div align="center">
-
-![Pipeline Overview](assets/pipeline_overview.png)
-
-</div>
-
----
-
-# 📊 What This Infrastructure Delivers
-
-## Reproducibility
-- automated execution
-- version-controlled workflows
-- deterministic outputs
-
-## Scalability
-- multi-core execution
-- HPC compatibility
-- GPU-ready computation
-- large cohort support
-
-## QC Transparency
-- probe-level QC
-- sample-level QC
-- visualization support
-- signal quality assessment
-
-## Analysis-Ready Outputs
-- structured per-sample files
-- CNV-ready signal generation
-- downstream-compatible datasets
-
----
-
 # 💼 Available Services
 
 ## 🟢 SNP-array QC & Troubleshooting
 
 - QC interpretation
-
 - problematic sample detection
-
 - signal quality assessment
-
 - troubleshooting support
 
-
 ---
-
 
 ## 🟡 Genomic Workflow Development
 - custom Snakemake pipelines
 - preprocessing automation
 - reproducibility engineering
-
 - scalable workflow design
-
 
 ---
 
 ## 🔴 HPC & GPU Optimization
 - multi-threaded execution
-
 - HPC deployment
-
 - scalable cohort processing
 - GPU acceleration strategies
-
 
 ---
 
@@ -210,13 +164,10 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 Open to:
 - research collaborations
 - consulting contracts
-
 - workflow optimization projects
 - genomic infrastructure development
 
-
 ---
-
 
 # 🤝 Why Work With Me
 
