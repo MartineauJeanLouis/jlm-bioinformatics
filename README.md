@@ -34,24 +34,17 @@ I help teams solve common bioinformatics workflow challenges such as:
 ❌ fragmented preprocessing pipelines  
 ❌ computational inefficiencies  
 
-
 By building:
 
 ✅ automated workflows  
-
 ✅ scalable genomic infrastructure  
-
 ✅ reproducible pipelines  
 ✅ transparent QC systems  
-
 ✅ high-throughput analysis frameworks  
-
 
 ---
 
-
 # 🔬 Core Expertise
-
 
 ## 🧬 SNP-array Processing & CNV Workflows
 
@@ -62,42 +55,33 @@ Development of scalable Illumina SNP-array workflows including:
 - BAF/LRR signal generation
 - probe & sample QC
 - PFB estimation
-
 - CNV-ready signal preparation
 - PennCNV integration
 
 ---
 
-
 ## 🧪 SNV / WES / WGS Pipelines
-
 
 Reproducible workflows for:
 
 - variant calling
-
 - variant filtering
 - annotation pipelines
-
 - preprocessing automation
 - downstream genomic analysis
-
 
 ---
 
 ## 🤖 Machine Learning for Genomics
 
-
 Current and future work includes:
 
 - variant prioritization
 - deleteriousness prediction
-
 - genomic feature engineering
 - ML-assisted genomic interpretation
 
 ---
-
 
 ## ⚙️ Bioinformatics Infrastructure Engineering
 
