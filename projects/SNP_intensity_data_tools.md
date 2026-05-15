@@ -50,11 +50,9 @@ Optional PennCNV Integration
 
 # ⚙️ Workflow Overview
 
-<div align="center">
-
-![Pipeline Overview](assets/pipeline_overview.png)
-
-</div>
+<p align="center">
+<img src="assets/pipeline_overview.png">
+</p>
 
 ---
 
