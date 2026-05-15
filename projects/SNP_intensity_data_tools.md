@@ -1,6 +1,4 @@
 
-# projects/SNP_intensity_data_tools.md
-
 # 🔬 SNP_intensity_data_tools
 
 ## Overview
@@ -25,7 +23,6 @@ The workflow was designed to:
 ---
 
 # 🏗️ Workflow Architecture
-<div align="center">
 
 ```text
 Raw IDAT Files
@@ -47,7 +44,6 @@ Per-Sample Outputs
 Optional PennCNV Integration
 ````
 ---
-</div>
 
 # ⚙️ Workflow Overview
 
@@ -117,7 +113,6 @@ Optional PennCNV Integration
 # 📊 Extracted Features
 
 The pipeline generates:
-<div align="center">
 
 | Feature | Description            |
 | ------- | ---------------------- |
@@ -128,7 +123,6 @@ The pipeline generates:
 | gcScore | Genotyping confidence  |
 
 ---
-</div>
 
 # 🧪 Quality Control
 
