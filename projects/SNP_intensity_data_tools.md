@@ -25,6 +25,7 @@ The workflow was designed to:
 ---
 
 # 🏗️ Workflow Architecture
+<div align="center">
 
 ```text
 Raw IDAT Files
@@ -45,14 +46,16 @@ Per-Sample Outputs
         ↓
 Optional PennCNV Integration
 ````
-
 ---
+</div>
 
 # ⚙️ Workflow Overview
 
-<p align="center">
-<img src="assets/pipeline_overview.png">
-</p>
+<div align="center">
+
+![Pipeline Overview](assets/pipeline_overview_github.png)
+
+</div>
 
 ---
 
@@ -114,6 +117,7 @@ Optional PennCNV Integration
 # 📊 Extracted Features
 
 The pipeline generates:
+<div align="center">
 
 | Feature | Description            |
 | ------- | ---------------------- |
@@ -124,6 +128,7 @@ The pipeline generates:
 | gcScore | Genotyping confidence  |
 
 ---
+</div>
 
 # 🧪 Quality Control
 
