@@ -108,6 +108,9 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 
 <img src="assets/pipeline_overview_github_1.png" height= "50%" width="50%">
 
+👉 Detailed project page:  
+[`projects/SNP_intensity_data_tools.md`](projects/SNP_intensity_data_tools.md)
+
 </div>
 
 ---
@@ -121,9 +124,6 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 ✅ scalable execution  
 ✅ optional GPU acceleration  
 ✅ PennCNV compatibility  
-
-👉 Detailed project page:  
-[`projects/SNP_intensity_data_tools.md`](projects/SNP_intensity_data_tools.md)
 
 ---
 
