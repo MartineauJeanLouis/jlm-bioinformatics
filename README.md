@@ -1,5 +1,5 @@
 <div align="center">
-# 🧬 jlm-bioinformatics
+# 🧬jlm-bioinformatics
 
 # Scalable Bioinformatics Infrastructure & Genomic Analysis Workflows
 
