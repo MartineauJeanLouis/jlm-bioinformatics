@@ -106,7 +106,7 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 
 <div align="center">
 
-<img src="pipeline_overview_github_1.png" height= "50%" width="50%">
+<img src="assets/pipeline_overview_github_1.png" height= "50%" width="50%">
 
 </div>
 
