@@ -1,6 +1,6 @@
-<div align="center">
-# jlm-bioinformatics
+#🧬 jlm-bioinformatics
 
+<div align="center">
 # Scalable Bioinformatics Infrastructure & Genomic Analysis Workflows
 
 ### SNP-array • SNV • CNV • HPC • GPU • Reproducible Pipelines
