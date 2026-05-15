@@ -49,7 +49,7 @@ Optional PennCNV Integration
 
 <div align="center">
 
-![Pipeline Overview]("../assets/pipeline_overview_github.png")
+![Pipeline Overview](image/pipeline_overview_github.png)
 
 </div>
 
