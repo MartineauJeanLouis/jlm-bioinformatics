@@ -1,5 +1,6 @@
 <div align="center">
 <img src="assets/logo_jlm_bioinfo_2.png">
+
 # 🧬 jlm-bioinformatics
 
 # Scalable Bioinformatics Infrastructure & Genomic Analysis Workflows
