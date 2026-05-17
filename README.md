@@ -106,7 +106,7 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 # ⚙️ Workflow Overview
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+<a href="https://www.youtube.com/channel/UCU7hFF9-Y3fs9QcarGiXFZg">
 <img src="assets/pipeline_overview_github_1.png" height= "50%" width="50%">
 </a>
 
@@ -238,8 +238,8 @@ feel free to reach out.
 📧 **Professional Email**
 [martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
 
-🔵 **LinkedIn**
-<a href="www.linkedin.com/in/jean-louis-martineau-b329981b4">
+🔵 **LinkedIn profile url**
+www.linkedin.com/in/jean-louis-martineau-b329981b4
 
 ---
 
