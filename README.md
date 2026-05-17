@@ -109,13 +109,14 @@ A scalable and reproducible workflow for processing Illumina SNP-array IDAT data
 <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
 <img src="assets/pipeline_overview_github_1.png" height= "50%" width="50%">
 </a>
+
 👉 Detailed project page:  
 [`projects/SNP_intensity_data_tools.md`](projects/SNP_intensity_data_tools.md)
 
-</div>
-
 ▶️ **Watch the full demonstration:**  
-https://www.youtube.com/channel/UCU7hFF9-Y3fs9QcarGiXFZg
+https://youtu.be/LGnkqfAhAZk
+
+</div>
 
 ---
 
