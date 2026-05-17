@@ -238,6 +238,9 @@ feel free to reach out.
 📧 **Professional Email**
 [martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
 
+🔵 **LinkedIn**
+<a href="www.linkedin.com/in/jean-louis-martineau-b329981b4">
+
 ---
 
 # 🌍 Vision
