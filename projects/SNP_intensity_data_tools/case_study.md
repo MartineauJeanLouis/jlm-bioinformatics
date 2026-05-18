@@ -1,4 +1,3 @@
-````markdown
 # 🧬 Case Study: Scalable SNP-Array Processing, QC, and CNV-Ready Workflow
 
 ## Overview
@@ -313,10 +312,8 @@ The workflow extracts SNP-level intensity metrics into structured tabular output
 
 ## 3. Genotype Calling
 * scalable batch processing
-
 * parallel execution
 
 Key features:
-
 Raw IDAT files are converted into GTC genotype files using IAAP.
 
