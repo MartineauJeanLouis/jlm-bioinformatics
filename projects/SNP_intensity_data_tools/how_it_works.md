@@ -1,4 +1,3 @@
-````markdown id="n3v8qp"
 # ⚙️ How It Works — SNP-Array Processing Workflow
 
 This document explains how the SNP-array processing workflow operates from raw Illumina IDAT files to analysis-ready outputs and CNV-compatible signal files.
@@ -309,23 +308,27 @@ This workflow is well suited for:
 * population genetics
 * CNV preprocessing
 * clinical genomics
-```
 * large cohort studies
 * downstream machine learning workflows
-```
 
 
+# 📫 Collaboration
 
-📧 [martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
-For collaborations or consulting inquiries:
-
+For consulting inquiries or collaboration opportunities:
 
 * custom QC procedures
 * downstream analytical integration
 * cloud/HPC deployment
+
 The workflow can be customized for:
+
 * non-standard datasets
 * new array platforms
 
-# 📫 Collaboration
+📧 **Professional Email**
+[martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
+
+🔵 **LinkedIn profile url**
+www.linkedin.com/in/jean-louis-martineau-b329981b4
+
 

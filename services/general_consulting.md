@@ -1,6 +1,3 @@
-```markdown id="jlwm301"
-# services/general_consulting.md
-
 # 🧬 Bioinformatics Consulting Services
 
 ## Scalable Genomic Workflows • Reproducible Infrastructure • HPC & GPU Optimization
@@ -23,82 +20,57 @@ My work helps research teams and genomics projects:
 ---
 
 # 🚀 Areas of Expertise
+
 ## 🔬 SNP-array Processing & QC
 
-
 Development and optimization of SNP-array preprocessing workflows including:
-
-
 - IDAT preprocessing
-
 - genotype extraction
-
 - BAF/LRR signal analysis
 - probe & sample QC
 - PFB estimation
-
 - CNV-ready signal generation
-
 
 ---
 
-
 ## 🧬 SNV / WES / WGS Pipelines
 
-
 Support for scalable sequencing workflows:
-
 - variant calling
 - variant filtering
-
 - annotation pipelines
 - preprocessing automation
-
 - downstream-ready outputs
-
 
 ---
 
 ## ⚙️ Reproducible Workflow Engineering
 
-
 Custom pipeline development using:
-
-
 - Snakemake
 - Python
 - Bash
-
 - modular workflow architecture
 
 Services include:
 
-
 ✅ reproducible environments  
-
 ✅ automated execution  
 ✅ scalable infrastructure  
-
 ✅ dependency management  
 ✅ configurable workflows  
-
 
 ---
 
 ## ⚡ HPC & GPU Optimization
 
-
 Optimization for high-throughput genomic analysis.
 
-
 Includes:
-
 - multi-core parallelization
-
 - HPC deployment
 - GPU acceleration
 - scalable cohort processing
-
 - cloud-compatible execution
 
 ---
@@ -188,8 +160,11 @@ My objective is not simply to process genomic data, but to engineer robust compu
 
 For consulting inquiries or collaboration opportunities:
 
-📧 martineau.jeanlouis.bioinfo2017@gmail.com
+📧 **Professional Email**
+[martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
+
+🔵 **LinkedIn profile url**
+www.linkedin.com/in/jean-louis-martineau-b329981b4
 
 ---
-```
 
