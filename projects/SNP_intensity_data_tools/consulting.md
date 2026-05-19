@@ -1,6 +1,3 @@
-```markdown id="jlwm302"
-# projects/SNP_intensity_data_tools/consulting.md
-
 # 💼 SNP_intensity_data_tools — Consulting & Collaboration
 
 ## Scalable SNP-array Processing • QC Infrastructure • CNV-Ready Workflows
@@ -43,12 +40,10 @@ Includes:
 ## Transparent Quality Control
 
 - probe-level QC
-
 - sample-level QC
 - signal quality assessment
 - problematic sample detection
 - cohort consistency evaluation
-
 
 This improves confidence in downstream genomic analyses.
 
@@ -56,14 +51,11 @@ This improves confidence in downstream genomic analyses.
 
 ## CNV-Ready Infrastructure
 
-
 Optional PennCNV-compatible preprocessing support including:
-
 
 - signal preparation
 - PFB compatibility
 - scalable CNV preprocessing
-
 - analysis-ready signal generation
 
 ---
@@ -137,33 +129,29 @@ Access may be available through:
 
 This controlled-access model helps maintain workflow integrity while enabling tailored collaboration opportunities.
 
-
 ---
-
 
 # 🤝 Collaboration Opportunities
 
 Open to collaborations involving:
 
 - SNP-array preprocessing
-
 - genomic QC systems
 - scalable workflow engineering
 - CNV preprocessing
-
 - genomic infrastructure optimization
 
 ---
-
 
 # 📫 Contact
 
 For consulting inquiries or collaboration opportunities:
 
+📧 **Professional Email**
+[martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
 
-📧 martineau.jeanlouis.bioinfo2017@gmail.com
-
+🔵 **LinkedIn profile url**
+www.linkedin.com/in/jean-louis-martineau-b329981b4
 
 ---
-```
 

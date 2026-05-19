@@ -133,6 +133,12 @@ Evaluates:
 * missingness
 * signal consistency
 
+<div align="center">
+
+<img src="screenshots/probe_call_rate.png" height= "50%" width="50%">
+
+</div>
+
 ## Sample-Level QC
 
 Evaluates:
@@ -142,11 +148,23 @@ Evaluates:
 * intensity quality
 * cohort consistency
 
+<div align="center">
+
+<img src="screenshots/sample_genotyping_success_rate.png" height= "50%" width="50%">
+
+</div>
+
 The workflow identifies:
 
 * low-quality samples
 * problematic probes
 * abnormal intensity patterns
+
+<div align="center">
+
+<img src="screenshots/signal_intensity_quality.png" height= "50%" width="50%">
+
+</div>
 
 ---
 
@@ -161,6 +179,12 @@ PFB estimation is important for:
 * downstream statistical interpretation
 
 The pipeline includes handling for edge cases such as probes with missing genotype distributions.
+
+<div align="center">
+
+<img src="screenshots/probe_pfb.png" height= "50%" width="50%">
+
+</div>
 
 ---
 
@@ -199,6 +223,12 @@ Contains:
 * genotype calls
 * intensity metrics
 
+<div align="center">
+
+<img src="screenshots/genotype_signals.png" height= "50%" width="50%">
+
+</div>
+
 ### QC Reports
 
 Contains:
@@ -215,6 +245,22 @@ Optional plotting includes:
 * QC histograms
 * density plots
 * CNV visualization support
+
+#### CNV DUP Visualization Outputs exemple
+
+<div align="center">
+
+<img src="screenshots/cnv_dup.png" height= "50%" width="50%">
+
+</div>
+
+#### CNV DEL Visualization Outputs exemple
+
+<div align="center">
+
+<img src="screenshots/cnv_del.png" height= "50%" width="50%">
+
+</div>
 
 ---
 

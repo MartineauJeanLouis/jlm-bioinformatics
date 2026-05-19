@@ -1,4 +1,4 @@
-# 🧬 Case Study: Scalable SNP-Array Processing, QC, and CNV-Ready Workflow
+# 🧬 Scalable SNP-Array Processing, QC, and CNV-Ready Workflow
 
 ## Overview
 
