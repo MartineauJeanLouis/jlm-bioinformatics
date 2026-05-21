@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo_jlm_bioinfo_2.png">
+<img src="assets/logo_jlm_bioinfo_2.png" height= "50%" width="50%" >
 
 # 🧬 jlm-bioinformatics
 

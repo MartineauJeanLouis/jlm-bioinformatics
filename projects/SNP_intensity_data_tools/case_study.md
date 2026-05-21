@@ -120,6 +120,45 @@ Automated preprocessing includes:
 
 * optional GEO dataset retrieval
 * extraction and organization of IDAT files
+* manifest normalization
+* reference genome indexing
+* project directory standardization
+
+---
+
+## 3. Genotype Calling
+
+Raw IDAT files are converted into GTC genotype files using IAAP.
+
+Key features:
+
+* parallel execution
+* scalable batch processing
+* reproducible sample handling
+
+---
+
+## 4. Intensity Feature Extraction
+
+The workflow extracts SNP-level intensity metrics into structured tabular outputs.
+
+Generated features include:
+
+* B Allele Frequency (BAF)
+* Log R Ratio (LRR)
+* normalized X/Y intensities
+* genotype calls (GT)
+* gcScore metrics
+
+Outputs are formatted for downstream statistical and CNV analyses.
+
+---
+
+## 5. Quality Control & Statistical Analysis
+
+A dedicated QC module computes:
+
+### Probe-level QC
 
 * call rate analysis
 * missingness evaluation
@@ -256,64 +295,29 @@ The workflow architecture can be adapted for:
 * custom SNP-array platforms
 * non-standard datasets
 * large-scale genomic cohorts
-```
-```
----
-
 * HPC environments
-
 * cloud deployment
-📧 [martineau.jean-louis.bioinfo2017@gmail.com](mailto:martineau.jean-louis.bioinfo2017@gmail.com)
 * custom downstream analytical modules
-For collaboration opportunities, consulting, or custom bioinformatics workflow development:
 
-
-
-
-# 📫 Contact
 Potential collaboration areas include:
----
-
 
 * pipeline engineering
 * workflow optimization
 * genomic infrastructure development
 * scalable QC systems
 * reproducibility consulting
-* manifest normalization
-* reference genome indexing
-
-### Probe-level QC
-* gcScore metrics
----
-
-A dedicated QC module computes:
-
-## 5. Quality Control & Statistical Analysis
-
-Outputs are formatted for downstream statistical and CNV analyses.
-
-Generated features include:
-* B Allele Frequency (BAF)
-* Log R Ratio (LRR)
-* normalized X/Y intensities
-* genotype calls (GT)
-
-The workflow extracts SNP-level intensity metrics into structured tabular outputs.
-
-## 4. Intensity Feature Extraction
-
-
-* project directory standardization
----
-* reproducible sample handling
 
 ---
 
-## 3. Genotype Calling
-* scalable batch processing
-* parallel execution
+# 📫 Contact
 
-Key features:
-Raw IDAT files are converted into GTC genotype files using IAAP.
+For collaboration opportunities, consulting, or custom bioinformatics workflow development:
+
+📧 **Professional Email**
+[martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
+
+🔵 **LinkedIn profile url**
+www.linkedin.com/in/jean-louis-martineau-b329981b4
+
+---
 

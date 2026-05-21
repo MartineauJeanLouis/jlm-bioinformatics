@@ -360,16 +360,15 @@ This workflow is well suited for:
 
 # 📫 Collaboration
 
-For consulting inquiries or collaboration opportunities:
-
-* custom QC procedures
-* downstream analytical integration
-* cloud/HPC deployment
-
 The workflow can be customized for:
 
-* non-standard datasets
 * new array platforms
+* non-standard datasets
+* custom QC procedures
+* cloud/HPC deployment
+* downstream analytical integration
+
+For collaborations or consulting inquiries:
 
 📧 **Professional Email**
 [martineau.jeanlouis.bioinfo2017@gmail.com](mailto:martineau.jeanlouis.bioinfo2017@gmail.com)
